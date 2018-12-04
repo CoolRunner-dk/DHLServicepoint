@@ -1,5 +1,5 @@
 {
-    "name": "DHL Servicepoint",
+    "name": "DHLServicepoint",
     "description": "Package generated from https://www.dhltoolbox.se/DHLServicePointLocatorWS/ServicePoint.svc?wsdl using wsdltophp/packagegenerator",
     "require": {
         "php": ">=5.3.3",
